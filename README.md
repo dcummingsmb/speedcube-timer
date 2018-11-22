@@ -1,2 +1,2 @@
-# speedcube-timer
-basic speedcubing timer. to be elaborated upon later
+# speedcube-timer-component
+A simple speedcubing timer component that can be styled and used in any project.
